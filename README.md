@@ -11,7 +11,9 @@ upload files
 1. -Configurar usuário e email:
 2.  -git config user.name "usuario"
 3.  -git config user.email "email"
+
 --Enviar arquivos e dados--
+
 1.  -git add *
 2   -git commit -m "mensagem"
 3.  -git push
